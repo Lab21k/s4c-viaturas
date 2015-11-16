@@ -1,0 +1,16 @@
+{
+  "name": "s4c-viaturas",
+  "version": "0.0.1",
+  "description": "Simulador de posição de viaturas",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.10.6",
+    "path-runner": "0.1.1",
+    "request": "^2.65.0"
+  }
+}
